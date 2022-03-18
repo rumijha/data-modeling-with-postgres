@@ -61,4 +61,4 @@ In addition to the data files, the project includes five files:
 
 
 #### How To Run the Project
-Run etl.py to process all the files under given path and insert the records into respective tables. You can again use test.ipynb to check if records are inserted into respective tables.
+Run etl.py to process all the files under given path and insert the records into respective tables. You can use test.ipynb to check if records are inserted into respective tables.
